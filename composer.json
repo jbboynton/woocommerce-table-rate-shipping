@@ -1,6 +1,6 @@
 {
   "name": "jbboynton/woocommerce-table-rate-shipping",
-  "version": "3.0.21",
+  "version": "3.0.21.1",
   "description": "Table rate shipping lets you define rates depending on location vs shipping class, price, weight, or item count.",
   "type": "wordpress-plugin",
   "license": "GNU General Public License v3.0",
